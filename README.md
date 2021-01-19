@@ -25,12 +25,18 @@ I have experience as a full stack developer but I lean more to the front end and
 <img align="left" width="30px" height="30px" alt="TypeScript" src="./icons/typescript.svg" />
 <img align="left" width="30px" height="30px" alt="React" src="./icons/react.svg" />
 <img align="left" width="30px" height="30px" alt="Node.js" src="./icons/node.svg" />
-<img align="left" width="30px" height="30px" alt="Express.js" src="./icons/express.svg" />
+<img align="left" width="40px" height="40px" alt="Express.js" src="./icons/express.svg" />
 <img align="left" width="30px" height="30px" alt="GraphQL" src="./icons/graphql.svg" />
 <img align="left" width="30px" height="30px" alt="Apollo" src="./icons/apollo.svg" />
 <img align="left" width="30px" height="30px" alt="MySQL" src="./icons/mysql.svg" />
-<img align="left" width="30px" height="30px" alt="MongoDB" src="./icons/mongo.svg" />
+<img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
 <img align="left" width="30px" height="30px" alt="Firebase" src="./icons/firebase.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
 <img align="left" width="30px" height="30px" alt="Java" src="./icons/java.svg" />
 <img align="left" width="30px" height="30px" alt="PHP" src="./icons/php.svg" />
+
+<br></br>
+
+### Stats:
+
+<img align="left" alt="Hazem Krimi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hazemKrimi&show_icons=true&hide_border=true" />
