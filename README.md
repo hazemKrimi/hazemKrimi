@@ -24,6 +24,7 @@ I have experience as a full stack developer but I lean more to the front end and
 <img align="left" width="30px" height="30px" alt="JavaScript" src="./icons/javascript.svg" />
 <img align="left" width="30px" height="30px" alt="TypeScript" src="./icons/typescript.svg" />
 <img align="left" width="30px" height="30px" alt="React" src="./icons/react.svg" />
+<img align="left" width="30px" height="30px" alt="Next.js" src="./icons/next.svg" />
 <img align="left" width="30px" height="30px" alt="Node.js" src="./icons/node.svg" />
 <img align="left" width="40px" height="40px" alt="Express.js" src="./icons/express.svg" />
 <img align="left" width="30px" height="30px" alt="GraphQL" src="./icons/graphql.svg" />
