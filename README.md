@@ -33,8 +33,6 @@ I have experience as a full stack developer but I lean more to the front end and
 <img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
 <img align="left" width="30px" height="30px" alt="Firebase" src="./icons/firebase.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
-<img align="left" width="30px" height="30px" alt="Java" src="./icons/java.svg" />
-<img align="left" width="30px" height="30px" alt="PHP" src="./icons/php.svg" />
 
 <br></br>
 
