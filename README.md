@@ -2,8 +2,17 @@
 
 I have experience as a full stack developer but I lean more to the front end and I have built a lot of web apps and some mobile apps. Also, I am always learning and experimenting with new technologies and other topics other than software engineering.
 
-- 🔭 I am currently working on my personal website
-- 🌱 I am currently learning ethereum blockchain
+- 🔭 I’m currently working on **My Personal Website**
+
+- 🌱 I’m currently learning **The Ethereum Blockchain**
+
+- 👨‍💻 All of my projects are available at [hazemkrimi.tech](hazemkrimi.tech)
+
+- 💬 Ask me about **React, TypeScript and GraphQL**
+
+- 📫 How to reach me **me@hazemkrimi.tech**
+
+- 📄 Know about my experiences here [hazemkrimi.tech](hazemkrimi.tech)
 
 ### Connect with me:
 
@@ -38,4 +47,8 @@ I have experience as a full stack developer but I lean more to the front end and
 
 ### Stats:
 
-<img align="left" alt="Hazem Krimi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hazemKrimi&show_icons=true&hide_border=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemkrimi&show_icons=true&locale=en" alt="hazemkrimi" /></p><br></br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemkrimi&" alt="hazemkrimi" /></p><br></br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazemkrimi&show_icons=true&locale=en&layout=compact" alt="hazemkrimi" /></p>
