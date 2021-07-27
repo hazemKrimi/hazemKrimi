@@ -22,7 +22,6 @@ I have experience as a full stack developer but I lean more to the front end and
 [<img align="left" alt="Website" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/hazemkrimi)
 [<img align="left" alt="Website" src="./icons/codepen.svg" />](https://codepen.io/hazemkrimi)
 [<img align="left" alt="Website" src="./icons/dribbble.svg" />](https://dribbble.com/HazemKrimi)
-[<img align="left" alt="Website" src="./icons/instagram.svg" />](https://instagram.com/hazemkrimi)
 
 <br></br>
 
