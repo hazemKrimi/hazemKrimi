@@ -1,6 +1,6 @@
-### Hi, I am Hazem, a Software Developer and Student
+### Hi, I am Hazem, a Software Developer
 
-I have experience as a full stack developer but I lean more to the front end and I have built a lot of web apps and some mobile apps. Also, I am always learning and experimenting with new technologies and other topics other than software engineering.
+I have experience with the full-stack but I mainly work on the front-end. I have built a lot of web and some mobile apps using various technologies especially React.js, React Native and Node.js. Also, I am always learning and experimenting with new technologies and other topics than software engineering.
 
 - 🔭 I’m currently working on **My Personal Website**
 
