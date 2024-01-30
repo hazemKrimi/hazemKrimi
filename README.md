@@ -6,7 +6,7 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 
 - 📫 How to reach me **me@hazemkrimi.tech**
 
-- 📄 Know about my experiences here [hazemkrimi.tech](hazemkrimi.tech)
+- 📄 Know about my experiences here [hazemkrimi.tech](https://hazemkrimi.tech)
 
 ### Connect with me:
 
