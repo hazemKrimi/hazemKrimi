@@ -6,7 +6,7 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 
 - 📫 How to reach me **me@hazemkrimi.tech**
 
-- 📄 Know about my experiences here [hazemkrimi.tech](https://hazemkrimi.tech)
+- 📄 Know about my experiences [here](https://hazemkrimi.tech/about)
 
 ### Connect with me:
 
@@ -14,8 +14,6 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 [<img align="left" alt="Website" src="./icons/mail.svg" />](mailto:me@hazemkrimi.tech)
 [<img align="left" alt="Website" src="./icons/twitter.svg" />](https://twitter.com/HazemKrimi)
 [<img align="left" alt="Website" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/hazemkrimi)
-[<img align="left" alt="Website" src="./icons/codepen.svg" />](https://codepen.io/hazemkrimi)
-[<img align="left" alt="Website" src="./icons/dribbble.svg" />](https://dribbble.com/HazemKrimi)
 
 <br></br>
 
@@ -35,13 +33,3 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 <img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
 <img align="left" width="30px" height="30px" alt="Firebase" src="./icons/firebase.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
-
-<br></br>
-
-### Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemkrimi&show_icons=true&locale=en" alt="hazemkrimi" /></p><br></br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemkrimi&" alt="hazemkrimi" /></p><br></br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazemkrimi&show_icons=true&locale=en&layout=compact" alt="hazemkrimi" /></p>
