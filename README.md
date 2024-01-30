@@ -2,7 +2,7 @@
 
 I have experience with the full-stack but I mainly work on the front-end. I have built a lot of web and some mobile apps using various technologies especially React.js, React Native and Node.js. Also, I am always learning and experimenting with new technologies and other topics than software engineering.
 
-- 💬 Ask me about **React, TypeScript and GraphQL**
+- 💬 Ask me about **React and TypeScript**
 
 - 📫 How to reach me **me@hazemkrimi.tech**
 
