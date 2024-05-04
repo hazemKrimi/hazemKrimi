@@ -1,6 +1,6 @@
-### Hi, I am Hazem, a Software Developer
+### Hi, I am Hazem, a Software Engineer!
 
-I have experience with the full-stack but I mainly work on the front-end. I have built a lot of web and some mobile apps using various technologies especially React.js, React Native and Node.js. Also, I am always learning and experimenting with new technologies and other topics than software engineering.
+I have extensive experience building user-friendly web and cross-platform mobile applications using React and React Native with TypeScript. Similarly, I have experience building APIs using Node.js and recently using Scala. Recently, I got into DLT (Distributed Ledger Technology) using Corda with Kotlin.
 
 - 💬 Ask me about **React and TypeScript**
 
@@ -21,7 +21,6 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 
 <img align="left" width="30px" height="30px" alt="HTML" src="./icons/html.svg" />
 <img align="left" width="30px" height="30px" alt="CSS" src="./icons/css.svg" />
-<img align="left" width="30px" height="30px" alt="JavaScript" src="./icons/javascript.svg" />
 <img align="left" width="30px" height="30px" alt="TypeScript" src="./icons/typescript.svg" />
 <img align="left" width="30px" height="30px" alt="React" src="./icons/react.svg" />
 <img align="left" width="30px" height="30px" alt="Next.js" src="./icons/next.svg" />
@@ -31,5 +30,4 @@ I have experience with the full-stack but I mainly work on the front-end. I have
 <img align="left" width="30px" height="30px" alt="Apollo" src="./icons/apollo.svg" />
 <img align="left" width="30px" height="30px" alt="MySQL" src="./icons/mysql.svg" />
 <img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
-<img align="left" width="30px" height="30px" alt="Firebase" src="./icons/firebase.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
