@@ -25,6 +25,9 @@ I have extensive experience building user-friendly web and cross-platform mobile
 <img align="left" width="30px" height="30px" alt="React" src="./icons/react.svg" />
 <img align="left" width="30px" height="30px" alt="Node.js" src="./icons/node.svg" />
 <img align="left" width="30px" height="30px" alt="GraphQL" src="./icons/graphql.svg" />
-<img align="left" width="30px" height="30px" alt="MySQL" src="./icons/mysql.svg" />
+<img align="left" width="30px" height="30px" alt="Postgres" src="./icons/postgresql.svg" />
 <img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
+<img align="left" width="30px" height="30px" alt="Kotlin" src="./icons/kotlin.svg" />
+<img align="left" width="30px" height="30px" alt="Scala" src="./icons/scala.svg" />
+<img align="left" width="30px" height="30px" alt="Corda" src="./icons/corda.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
