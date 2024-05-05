@@ -23,11 +23,8 @@ I have extensive experience building user-friendly web and cross-platform mobile
 <img align="left" width="30px" height="30px" alt="CSS" src="./icons/css.svg" />
 <img align="left" width="30px" height="30px" alt="TypeScript" src="./icons/typescript.svg" />
 <img align="left" width="30px" height="30px" alt="React" src="./icons/react.svg" />
-<img align="left" width="30px" height="30px" alt="Next.js" src="./icons/next.svg" />
 <img align="left" width="30px" height="30px" alt="Node.js" src="./icons/node.svg" />
-<img align="left" width="40px" height="40px" alt="Express.js" src="./icons/express.svg" />
 <img align="left" width="30px" height="30px" alt="GraphQL" src="./icons/graphql.svg" />
-<img align="left" width="30px" height="30px" alt="Apollo" src="./icons/apollo.svg" />
 <img align="left" width="30px" height="30px" alt="MySQL" src="./icons/mysql.svg" />
 <img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
