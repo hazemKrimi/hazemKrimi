@@ -1,12 +1,10 @@
 ### Hi, I am Hazem, a Software Engineer!
 
-I have extensive experience building user-friendly web and cross-platform mobile applications using React and React Native with TypeScript. Similarly, I have experience building APIs using Node.js and recently using Scala. Recently, I got into DLT (Distributed Ledger Technology) using Corda with Kotlin.
+Software Engineer with a extensive experience building AI-powered and user-friendly web and cross-platform mobile applications using various technologies including React, React Native, TypeScript, Golang, Rust, Kotlin and Scala to name a few.
 
-- 💬 Ask me about **React and TypeScript**
-
-- 📫 How to reach me **me@hazemkrimi.tech**
-
-- 📄 Know about my experiences [here](https://hazemkrimi.tech/about)
+- Ask me about **React and TypeScript**
+- How to reach me **me@hazemkrimi.tech**
+- Get to know about my experiences [here](https://hazemkrimi.tech/about)
 
 ### Connect with me:
 
@@ -24,10 +22,13 @@ I have extensive experience building user-friendly web and cross-platform mobile
 <img align="left" width="30px" height="30px" alt="TypeScript" src="./icons/typescript.svg" />
 <img align="left" width="30px" height="30px" alt="React" src="./icons/react.svg" />
 <img align="left" width="30px" height="30px" alt="Node.js" src="./icons/node.svg" />
-<img align="left" width="30px" height="30px" alt="GraphQL" src="./icons/graphql.svg" />
-<img align="left" width="30px" height="30px" alt="Postgres" src="./icons/postgresql.svg" />
-<img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
-<img align="left" width="30px" height="30px" alt="Kotlin" src="./icons/kotlin.svg" />
+<img align="left" width="30px" height="30px" alt="Golang" src="./icons/go.svg" />
+<img align="left" width="30px" height="30px" alt="Rust" src="./icons/rust.svg" />
 <img align="left" width="30px" height="30px" alt="Scala" src="./icons/scala.svg" />
-<img align="left" width="30px" height="30px" alt="Corda" src="./icons/corda.svg" />
+<img align="left" width="30px" height="30px" alt="Kotlin" src="./icons/kotlin.svg" />
 <img align="left" width="30px" height="30px" alt="Python" src="./icons/python.svg" />
+<img align="left" width="30px" height="30px" alt="C/C++" src="./icons/c.svg" />
+<img align="left" width="30px" height="30px" alt="Postgres" src="./icons/postgresql.svg" />
+<img align="left" width="30px" height="30px" alt="GraphQL" src="./icons/graphql.svg" />
+<img align="left" width="40px" height="40px" alt="MongoDB" src="./icons/mongo.svg" />
+<img align="left" width="30px" height="30px" alt="Corda" src="./icons/corda.svg" />
