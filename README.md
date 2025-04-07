@@ -1,6 +1,6 @@
 ### Hi, I am Hazem, a Software Engineer!
 
-Software Engineer with a extensive experience building AI-powered and user-friendly web and cross-platform mobile applications using various technologies including React, React Native, TypeScript, Golang, Rust, Kotlin and Scala to name a few.
+Software Engineer with an extensive experience building AI-powered and user-friendly web and cross-platform mobile applications using various technologies including React, React Native, TypeScript, Golang, Rust, Kotlin and Scala to name a few.
 
 - Ask me about **React and TypeScript**
 - How to reach me **me@hazemkrimi.tech**
