@@ -4,7 +4,7 @@ Software Engineer with an extensive experience building AI-powered and user-frie
 
 - Ask me about **React and TypeScript**
 - How to reach me **me@hazemkrimi.tech**
-- Get to know about my experiences [here](https://hazemkrimi.tech/about)
+- Get to know more about me through my website [here](https://hazemkrimi.tech/)
 
 ### Connect with me:
 
